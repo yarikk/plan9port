@@ -1,4 +1,5 @@
 This is a port of many Plan 9 libraries and programs to Unix.
+[![Build Status](https://travis-ci.org/yarikk/plan9port.svg?branch=master)](https://travis-ci.org/yarikk/plan9port)
 
 Installation
 ------------
